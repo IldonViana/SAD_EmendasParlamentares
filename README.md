@@ -8,7 +8,8 @@
 
 <div align="center">
  <img alt="GitHub language count" src=https://github.com/IldonViana/SAD_EmendasParlamentares/blob/main/PDI_Transformacoes/Prints/ft_dim_tempo.png width="420px">
-  
+ <img alt="GitHub language count" src=https://github.com/IldonViana/SAD_EmendasParlamentares/blob/main/PDI_Transformacoes/Prints/ft_dim_geral.png width="420px">
+ <img alt="GitHub language count" src=https://github.com/IldonViana/SAD_EmendasParlamentares/blob/main/PDI_Transformacoes/Prints/ft_fato_emendas.png width="420px">
 </div>
 
 ## Dashboard:
@@ -19,7 +20,7 @@
 ## Ferramentas e Tecnologias:
 
 <div align="center">
- <img alt="GitHub language count" src=https://github.com/IldonViana/SAD_EmendasParlamentares/blob/main/Arquivos/Arquitetura tecnológica do DM.png>
+ <img alt="GitHub language count" src="https://github.com/IldonViana/SAD_EmendasParlamentares/blob/main/Arquivos/Arquitetura tecnológica do DM.png">
 </div>
 
 ## Disciplina:
