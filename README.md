@@ -20,7 +20,7 @@
 ## Ferramentas e Tecnologias:
 
 <div align="center">
- <img alt="GitHub language count" src="https://github.com/IldonViana/SAD_EmendasParlamentares/blob/main/Arquivos/Arquitetura tecnológica do DM.png">
+ <img alt="GitHub language count" src="https://github.com/IldonViana/SAD_EmendasParlamentares/blob/main/Arquivos/Arquitetura tecnológica do DM.png" width="600px">
 </div>
 
 ## Disciplina:
