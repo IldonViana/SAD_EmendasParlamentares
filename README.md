@@ -26,7 +26,7 @@
 
 ## Disciplina:
  - Sistemas de Apoio a Decisão (SAD)
- - Curso de Sistemas de Informações - Campus - UAST
+ - Curso de Sistemas de Informações - UFRPE - UAST
  
 ## Docente:
  - ELLEN POLLIANA RAMOS SOUZA PEREIRA
