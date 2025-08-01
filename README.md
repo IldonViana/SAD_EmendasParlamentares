@@ -1,4 +1,5 @@
 # Projeto da cadeira Sistema de Apoio a decisão
+[LINK DO POWER BI](https://app.powerbi.com/view?r=eyJrIjoiMzk3MWQ2ZjEtZGRhMC00YmYzLWFmMGMtMmY2Mjk1NzY0ODgxIiwidCI6IjQ4ZTA3YWU2LWQ1MjMtNDk1NC1iNDJjLTllODQ4ZDg5NDVjZiJ9)
 
 ## Sobre o projeto:
 - O Projeto foi construído para a análise de Emendas Parlamentares entre os anos de 2018 e 2023. Utilizando dados abertos do Portal da Transparência [https://portaldatransparencia.gov.br/](https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares) para busca dos dados a serem analisados. Foi feito um processo de Extração, Transformação e Carga dos dados utilizando o Pentaho Data Integration (PDI) até chegar no Dashboard final, feito no Power BI.
